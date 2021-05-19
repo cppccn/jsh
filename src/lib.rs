@@ -1,4 +1,4 @@
-//! # `jsh`
+//! # `jshell`
 //! 
 //! _A sandboxed shell that input and output JSON (which is handy)_
 //! 

@@ -8,6 +8,6 @@
 
 use std::path::Path;
 
-pub fn exec(_path: &Path, _cmd: &str) {
+pub fn exec(_path: &Path, _cmd: &str) -> String {
     unimplemented!();
 }

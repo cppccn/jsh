@@ -1,6 +1,6 @@
 [package]
 name = "jshell"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Yvan Sraka <yvan@sraka.xyz>"]
 edition = "2018"
 description = "JSH is a sandboxed shell that input and output JSON (which is handy)"

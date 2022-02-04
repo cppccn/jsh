@@ -1,6 +1,6 @@
 <!-- cargo-sync-readme start -->
 
-# `jshell`
+# `JSH`
 
 _A sandboxed shell that input and output JSON (which is handy)_
 
